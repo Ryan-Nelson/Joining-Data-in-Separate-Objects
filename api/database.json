@@ -1,0 +1,55 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "Jenna",
+            "last_name": "Solis",
+            "job_title": "Junior Instructor",
+            "computerId": 1,
+            "departmentId": 1
+        },
+        {
+            "id": 2,
+            "first_name": "Madi",
+            "last_name": "Pepper",
+            "job_title": "Junior Instructor",
+            "computerId": 2,
+            "departmentId": 1
+        },
+        {
+            "id": 3,
+            "first_name": "John",
+            "last_name": "Wark",
+            "job_title": "CEO",
+            "computerId": 3,
+            "departmentId": 2
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "make": "Dell",
+            "model": "Inspiron"
+        },
+        {
+            "id": 2,
+            "make": "Microsoft",
+            "model": "Surface"
+        },
+        {
+            "id": 3,
+            "make": "Apple",
+            "model": "MacBook Pro"
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "dept_name": "Learning Department"
+        },
+        {
+            "id": 2,
+            "dept_name": "Administration"
+        }
+    ]
+}
